@@ -1,4 +1,5 @@
-# vue-cms
+# CMS
+Headless CMS with Vue in Front-End and MS-SQL .Net in Back-End
 
 ## Project setup
 ```
